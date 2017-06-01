@@ -1,5 +1,5 @@
 # Site settings
-title:       AdriaticSea
+title:       海的學習手札｜AH
 email:       b03901023@ntu.edu.tw
 author:      Adrian Hsu
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -65,9 +65,9 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: true
+share_facebook: false
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
