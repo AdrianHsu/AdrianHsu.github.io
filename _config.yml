@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       AdriaticSea
+email:       b03901023@ntu.edu.tw
+author:      Adrian Hsu
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://www.facebook.com/adriaticsea2017"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -31,7 +31,7 @@ post_preview_image: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id:
+fb_page_id: adriaticsea2017
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -48,14 +48,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: adrianhsu
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: Adrian Hsu
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -67,7 +67,7 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
+share_facebook: true
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
