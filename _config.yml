@@ -4,7 +4,7 @@ email:       b03901023@ntu.edu.tw
 author:      Adrian Hsu
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://www.facebook.com/adriaticsea2017"
+url:         "http://adrianhsu.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -30,7 +30,7 @@ post_preview_image: false
 
 # Facebook Page integration
 # (for instant articles and other stuff)
-fb_page: false
+fb_page: true
 fb_page_id: adriaticsea2017
 
 # Disqus post comments
@@ -65,7 +65,7 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
