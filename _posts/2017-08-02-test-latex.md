@@ -9,25 +9,24 @@ categories: summer rudin
 
 ### Code, with syntax highlighting
 
-$1/x^{2}$
 
-I discovered that \( 1/x^{2121} \)  
-and  
+## this works!
+\\( 1/x^{2121} \\)
+and
+$$x^2$$
+## this not works
+
+and
+$1/x^{2}$
+and
+\( 1/x^{2121} \)  
+and
 \[ \frac{1}{n^{234}} \]  
 
-and
-$$ \frac{1}{n^{2}} $$  
-
-and
-
-$$ a^2 + b^2 = c^2 $$
-
- is inline
-
-$$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$  
 
 
 Here's an example of some ruby code with line anchors.
+$$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$  
 
 {% highlight ruby lineanchors %}
 # The most awesome of classes
