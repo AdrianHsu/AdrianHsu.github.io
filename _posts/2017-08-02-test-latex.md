@@ -3,11 +3,14 @@ layout:     post
 title:      Test Latex
 date:       2017-08-02 12:31:19
 summary:    test latex
-categories: jekyll pixyll
+categories: summer rudin
 ---
+
 
 ### Code, with syntax highlighting
 
+$x = 1$
+$ \sum_{\forall i}{x_i^{2}} $
 Here's an example of some ruby code with line anchors.
 
 {% highlight ruby lineanchors %}
