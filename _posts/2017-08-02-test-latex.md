@@ -9,9 +9,16 @@ categories: summer rudin
 
 ### Code, with syntax highlighting
 
-\[ sin(x^2) \]
+I discovered that
 
-$$a^2 + b^2 = c^2$$
+\\( 1/x^{2} \\)  
+and  
+\\[ \frac{1}{n^{2}} \\]  
+
+$$ a^2 + b^2 = c^2 $$
+
+ is inline
+
 $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$  
 
 
