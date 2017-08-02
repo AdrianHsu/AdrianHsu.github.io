@@ -9,11 +9,16 @@ categories: summer rudin
 
 ### Code, with syntax highlighting
 
-I discovered that
+$1/x^{2}$
 
-\\( 1/x^{2} \\)  
+I discovered that \\( 1/x^{2} \\)  
 and  
 \\[ \frac{1}{n^{2}} \\]  
+
+and
+$$ \frac{1}{n^{2}} $$  
+
+and
 
 $$ a^2 + b^2 = c^2 $$
 
