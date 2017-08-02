@@ -10,7 +10,7 @@ categories: summer rudin
 ### Code, with syntax highlighting
 
 
-## this works!
+## this works! tex2jax weird...
 \\( 1/x^{2121} \\)
 and
 $$x^2$$
