@@ -9,10 +9,10 @@ categories: summer rudin
 
 ### Code, with syntax highlighting
 
-$x = 1$  
-$ \sum_{\forall i}{x_i^{2}} $  
-$$a^2 + b^2 = c^2$$  
-$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$  
+\[ sin(x^2) \]
+
+$$a^2 + b^2 = c^2$$
+$$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$  
 
 
 Here's an example of some ruby code with line anchors.
