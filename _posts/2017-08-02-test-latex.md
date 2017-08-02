@@ -11,9 +11,9 @@ categories: summer rudin
 
 $1/x^{2}$
 
-I discovered that \( 1/x^{211} \)  
+I discovered that \( 1/x^{2121} \)  
 and  
-\[ \frac{1}{n^{24}} \]  
+\[ \frac{1}{n^{234}} \]  
 
 and
 $$ \frac{1}{n^{2}} $$  
