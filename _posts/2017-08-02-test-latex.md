@@ -14,6 +14,10 @@ categories: summer rudin
 \\( 1/x^{2121} \\)
 and
 $$x^2$$
+and
+\\[
+\frac{1}{n^{234}}
+\\]
 ## this not works
 
 and
