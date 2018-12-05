@@ -1,128 +1,158 @@
 # Site settings
-title:       海的學習手札｜AH
-email:       adrianhsu1995@gmail.com
-author:      Adrian Hsu
-description: "願你走出半生，歸來仍是少年"
-baseurl:     ""
-url:         "http://adrianhsu.github.io"
-date_format: "%b %-d, %Y"
+title: Project Pages
+description: "An Integrated Scientific Blogging Template"
+url: "https://projectpages.github.io"
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
 
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    true
-ajaxify_contact_form: false
-enable_mathjax: true
-extended_fonts: false
-enable_anchorjs: false
-# Preview image for social media aka og:image and twitter:image
-post_preview_image: false
 
-# Facebook Page integration
-# (for instant articles and other stuff)
-fb_page: true
-fb_page_id: adriaticsea2017
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+# Secondary Parameters
+baseurl: "/project-pages"
+header-img: img/home-bg.jpg
+headercolor: "#FFFFFF"
+logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
-# txtpen post comments
-# (leave blank to disable txtpen)
-txtpen_sitename:
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
-
-# Social icons
-github_username: adrianhsu
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username: adrianhsu
-angellist_username:
-medium_id: adrianhsu
-bitcoin_url:
-paypal_url:
-flattr_button:
-telegram_username:
-vk_id:
-
-# Post sharing icons
-show_sharing_icons: false
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
-  index:
-    coming_soon: 'Coming soon...'
-  contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
-    ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+# Tertiary Parameters
+github_username:  projectpages
+project_repository: project-pages
+disqus_shortname: project-pages
+g-analytics: UA-75881392-1
+altmetric: true
 
 # Build settings
-markdown:  kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
-sass:
-  style: compressed
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Jekyll Settings
+
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      header-img: "img/home-bg.jpg"
+
+# Prose Settings
+prose:
+  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
+  siteurl: 'http://projectpages.github.io/project-pages/'
+  ispp: true
+  media: 'img'
+  metadata:
+    projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "Project"
+          value: ""           
+    _posts:
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Sub-Title (Short Description)"
+          value: ""
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Choose Layout"
+          placeholder: "Layouts"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Slide"
+              value: "slide"
+            - name: "Projector"
+              value: "projector"
+            - name: "Notebook"
+              value: "notebook"
+            - name: "Ply Surface"
+              value: "plysurface"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags (seperate with whitespace)"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "Project"
+          value: ""    
+      - name: "horizontal"
+        field:
+          element: "hidden"
+          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+      - name: "vertical"
+        field:
+          element: "hidden"
+          value: </section><section markdown="1">
+      - name: "slideinit"
+        field:
+          element: "hidden"
+          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+      - name: "theme"
+        field:
+          element: "select"
+          label: "Theme (Slide)"
+          placeholder: "Theme (Slide)"
+          options:
+            - name: "Beige"
+              value: "beige"
+            - name: "Blood"
+              value: "blood"
+            - name: "Moon"
+              value: "moon"          
+            - name: "Night"
+              value: "night"
+            - name: "Sky"
+              value: "sky"
+            - name: "Solarized"
+              value: "solarized"             
+      - name: "trans"
+        field:
+          element: "select"
+          label: "Transition (Slide)"
+          placeholder: "Transition (Slide)"
+          options:
+            - name: "Cube"
+              value: "cube"
+            - name: "Page"
+              value: "page"
+            - name: "Concave"
+              value: "concave"          
+            - name: "Linear"
+              value: "linear"
+            - name: "Fade"
+              value: "fade"
+            - name: "None"
+              value: "none"             
+      - name: "visualworkflow"
+        field:
+          element: "checkbox"
+          label: "Visual Workflow Chart (Some Layouts)"
+          value: "true"
