@@ -8,6 +8,11 @@ categories: world
 * 主題：「國家為什麼會失敗？」
 * 講者：James Robinson （本書作者）
 * 活動：經濟學書展＠社科院圖書館
+
+
+
+
+
 ![why-nations-fail.jpeg](https://user-images.githubusercontent.com/8178172/49523492-dbe12f00-f8e4-11e8-90f5-cb6bd9a52c9e.jpeg)
 
 ### 為什麼南韓比北韓發達？
