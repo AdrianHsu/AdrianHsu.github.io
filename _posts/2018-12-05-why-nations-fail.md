@@ -3,7 +3,7 @@ layout:     post
 title:      演講速記 1
 date:       2018-12-05
 summary:    
-categories: world
+categories: econ
 ---
 * 主題：「國家為什麼會失敗？」
 * 講者：James Robinson （本書作者）
