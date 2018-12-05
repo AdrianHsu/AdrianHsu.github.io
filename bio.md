@@ -7,7 +7,7 @@ tags: bio
 
 ![bio](https://user-images.githubusercontent.com/8178172/49525480-cec63f00-f8e8-11e8-9241-2bb887745dae.jpeg)
 
-### Bio
+### Biography
 
 * 阿公阿嬤養大的台北人
 * 生理男、天蠍座、身高一七五
