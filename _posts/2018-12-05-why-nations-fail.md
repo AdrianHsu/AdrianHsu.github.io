@@ -1,10 +1,13 @@
 ---
 layout:     post
-title:      「國家為什麼會失敗？」：James Robinson 本書作者演講
+title:      演講速記
 date:       2018-12-05
 summary:    
 categories: world
 ---
+「國家為什麼會失敗？」James Robinson 作者演講
+經濟學書展 at 社科院圖書館
+[](/images/why-nations-fail.jpeg)
 
 ## 為什麼南韓比北韓發達？
 
