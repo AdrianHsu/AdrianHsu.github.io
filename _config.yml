@@ -1,5 +1,5 @@
 # Site settings
-title:       Carry On
+title:       Free Fallin'
 email:       adrianhsu1995@gmail.com
 author:      Adrian Hsu
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -8,7 +8,6 @@ url:         "https://adrianhsu.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -69,9 +68,9 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: true
+share_facebook: false
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
