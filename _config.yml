@@ -96,9 +96,9 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated:        '更新'
+    minute_read:    '分鐘 閱讀時間'
+    related_posts:  '相關文章'
   index:
     coming_soon: 'Coming soon...'
   contact:
