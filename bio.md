@@ -30,8 +30,7 @@ tags: bio
 * 常用焦段：廣角鏡、短距定焦鏡
 * 喜歡建築、光影、廢墟、老人與小孩
 * 不擅長人像、不喜歡用變焦鏡
-* 1000 張攝影計畫（以歌曲為相簿命名）點此 [@adrian_hsu](https://www.flickr.com/photos/adrian_hsu/)
-* 希望結合影像與音樂創作
+* 2000 張攝影計畫（以歌曲為相簿命名）點此 [@adrian_hsu](https://www.flickr.com/photos/adrian_hsu/)
 
 ### Movies
 * David Fincher, Christopher Nolan, Quentin Tarantino, こん さとし
