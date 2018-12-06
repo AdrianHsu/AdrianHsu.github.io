@@ -25,7 +25,7 @@ tags: about
 
 * `TECH`: 七大科技巨獸佈局（Apple, Google, Amazon, Microsoft, Facebook, Alibaba, Tencent）、雲端計算（公有雲、混合雲、私有雲）、邊緣計算、物聯網、一點點的人工智慧
 * `ECON`: 任意年代的國際情勢與政經發展
-* `HIST`: 任意年代的歷史（補齊高中打混摸魚的缺口......）
+* `HIST`: 任意年代的歷史
 * `INVE`: 個人投資理財、股票市場、金融法規
 * `STAR`: 新創、公司經營、創投與募資
 * `SOCI`: 社會學的基本觀念、任何研究人類社會種種現象的 Social Sciences
