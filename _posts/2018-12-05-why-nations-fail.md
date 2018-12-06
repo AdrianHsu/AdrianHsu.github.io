@@ -15,7 +15,7 @@ categories: econ
 
 ![why-nations-fail.jpeg](https://user-images.githubusercontent.com/8178172/49523492-dbe12f00-f8e4-11e8-90f5-cb6bd9a52c9e.jpeg)
 
-<center>「政治開放而自由，其實是極具經濟價值的」<br>講者把〔廣納／榨取〕‧〔政治／經濟〕分割成四個象限並作圖。</center>
+> 「政治開放而自由，其實是極具經濟價值的。」<br>講者把〔廣納／榨取〕‧〔政治／經濟〕分割成四個象限並作圖。
 
 ### 榨取式制度（政治、經濟）
 
