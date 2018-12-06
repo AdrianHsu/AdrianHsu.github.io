@@ -1,54 +1,11 @@
 <footer class="center">
-  <!-- The Sign-in button. This will run `queryReports()` on success. -->
-<p class="g-signin2" data-onsuccess="queryReports"></p>
-
-<!-- The API response will be printed here. -->
-<textarea cols="80" rows="20" id="query-output"></textarea>
-
-<script>
-  // Replace with your view ID.
-  var VIEW_ID = '102594479';
-
-  // Query the API and print the results to the page.
-  function queryReports() {
-    gapi.client.request({
-      path: '/v4/reports:batchGet',
-      root: 'https://analyticsreporting.googleapis.com/',
-      method: 'POST',
-      body: {
-        reportRequests: [
-          {
-            viewId: VIEW_ID,
-            dateRanges: [
-              {
-                startDate: '7daysAgo',
-                endDate: 'today'
-              }
-            ],
-            metrics: [
-              {
-                expression: 'ga:sessions'
-              }
-            ]
-          }
-        ]
-      }
-    }).then(displayResults, console.error.bind(console));
-  }
-
-  function displayResults(response) {
-    var formattedJson = JSON.stringify(response.result, null, 2);
-    document.getElementById('query-output').value = formattedJson;
-  }
-</script>
-
-<!-- Load the JavaScript API client and Sign-in library. -->
-<script src="https://apis.google.com/js/client:platform.js"></script>
-
   <div class="measure">
     <small>
       © Copyright <a href="https://github.com/AdrianHsu">Adrian Hsu</a>. <br>
-      Powered by <a href="https://github.com/johno/pixyll">Pixyll</a>.
+      Powered by <a href="https://github.com/johno/pixyll">Pixyll</a>. <br>
+      <!-- Start of CuterCounter Code -->
+      <a href="http://www.cutercounter.com/traditional-chinese-n/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=gufacxa&nd=6&style=51" border="0" alt="網站計數器"></a> <script id="_wauavq">var _wau = _wau || []; _wau.push(["small", "9xspavfuqk", "avq"]);</script><script async src="//waust.at/s.js"></script>
+      <!-- End of CuterCounter Code -->
     </small>
   </div>
 </footer>
