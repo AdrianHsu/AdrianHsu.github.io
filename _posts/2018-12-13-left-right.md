@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      左派與右派簡介與測驗
+title:      左派與右派、意識形態
 date:       2018-12-13
 summary:    
 categories:  soci
