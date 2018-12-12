@@ -3,7 +3,7 @@ layout:     post
 title:      左派與右派、意識形態
 date:       2018-12-13
 summary:    
-categories:  soci, twn, econ
+categories:  soci
 ---
 
 * 主題：政治和經濟的意識形態
