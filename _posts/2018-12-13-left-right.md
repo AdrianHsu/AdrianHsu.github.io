@@ -14,7 +14,12 @@ categories:  soci
 
 ![img](https://user-images.githubusercontent.com/8178172/49886941-fcc1fb00-fe75-11e8-980c-1160a8b1393e.png)
 
+#### 評分量表
 
+* AA: Strongly Agree
+* A: Agree
+* D: Disagree
+* DD: Strongly Disagree
 
 ### 第一頁：有關你如何看待你的國家及世界的命題
 
