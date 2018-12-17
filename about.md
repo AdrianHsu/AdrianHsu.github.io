@@ -23,7 +23,7 @@ tags: about
 
 ### 我感興趣的分類
 
-* `TECH`: 七大科技巨獸佈局（Apple, Google, Amazon, Microsoft, Facebook, Alibaba, Tencent）、雲端計算（公有雲、混合雲、私有雲）、邊緣計算、物聯網、一點點的人工智慧
+* `TECH`: 七大科技巨獸佈局（Apple, Google, Amazon, Microsoft, Facebook, Alibaba, Tencent）、雲端計算（公有雲、混合雲、私有雲）、邊緣計算、物聯網、一些人工智慧
 * `ECON`: 任意年代的國際情勢與政經發展
 * `HIST`: 任意年代的歷史
 * `INVE`: 個人投資理財、股票市場、金融法規
