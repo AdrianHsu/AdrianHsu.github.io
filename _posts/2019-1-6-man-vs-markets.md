@@ -151,4 +151,6 @@ X / 60000 = 120%，X = 72 塊，主管機關訂定的擔保維持率 = 120%
 
 1. [融資融券](https://www.sinotrade.com.tw/ec/wm/Article.aspx?ID=136&dirtype=706)
 
-   
+2. [揭開有著「富人遊戲」之稱、全球企業併購背後的神秘推手—私募股權基金](https://kopu.chat/2017/08/04/%E4%BB%80%E9%BA%BC%E6%98%AF%E7%A7%81%E5%8B%9F%E8%82%A1%E6%AC%8A%E5%9F%BA%E9%87%91/)
+
+    
