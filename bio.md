@@ -20,7 +20,7 @@ tags: bio
 * 喜歡的樂風是 Grunge Rock
 * 喜歡的樂團是芬蘭的 [Startovarius](https://www.youtube.com/watch?v=lNLdTfwx5ZQ)
 * 喜歡的台灣樂團是 [草東沒有派對](https://www.youtube.com/watch?v=m-NB-ibA5oA)
-* 每週練琴紀錄/創作，點此 [@adriatic_sea___](https://www.instagram.com/adriatic_sea____/)
+* 每週練琴紀錄/創作，點此 [@adriatic_sea](https://www.instagram.com/adriatic_sea___/)
 
 ### Photography
 * Nikon A6300
