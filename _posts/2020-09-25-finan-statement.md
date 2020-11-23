@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:       Financial Statements Insights 
+title:       Financial Statement Insights 
 date:       2020-09-25
 summary:    
 categories:  biz
