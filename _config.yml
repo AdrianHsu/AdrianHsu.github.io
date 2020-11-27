@@ -1,8 +1,8 @@
 # Site settings
 title:       Free Fallin'
 email:       adrianhsu1995@gmail.com
-author:      Adrian Hsu
-description: "我是 Adrian，這是一個每週更新的自學計劃。我希望這個部落格是能夠嚴肅撰文、同時也能夠分享自己看法的小天地。"
+author:      AH
+description: "我是 AH，這是個不定期更新的自學計畫。我希望這個部落格是讓我分享所學與看法的小天地。"
 baseurl:     ""
 url:         "https://adrianhsu.github.io"
 date_format: "%b %-d, %Y"
